@@ -1,3 +1,3 @@
-module github.com/rakyll/statik
+module github.com/interchained/statik
 
 go 1.12
